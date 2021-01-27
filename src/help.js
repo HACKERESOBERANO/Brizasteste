@@ -56,7 +56,7 @@ Função: imagem de hentai neko
 Comando: '${prefix}nsfwtrap'
 Função: imagem de hentai trap
 
-Comando: '${prefix}nsfw'
+Comando: '${prefix}nsfw off'
 Função: Ativa o modo hentai no grupo
 Como Usar: '${prefix}nsfw 1' para ativar o modo nsfw e '${prefix}nsfw 0' para desativar o modo nsfw
 Obs: Este comando pode ser usado se você for um administrador do grupo 
